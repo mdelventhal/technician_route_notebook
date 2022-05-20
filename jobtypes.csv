@@ -1,0 +1,8 @@
+job_type,priority,duration
+equipment_installation,2,60
+equipment_setup,3,30
+inspect_service_equipment,1,60
+repair_regular,1,60
+repair_important,2,120
+repair_urgent,3,90
+repair_critical,4,60

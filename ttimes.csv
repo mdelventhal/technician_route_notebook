@@ -1,0 +1,82 @@
+origin,destin,time
+Heidelberg,Heidelberg,0
+Freiburg im Breisgau,Heidelberg,120
+Mannheim,Heidelberg,24
+Karlsruhe,Heidelberg,50
+Baden-Baden,Heidelberg,67
+Buhl,Heidelberg,71
+Offenburg,Heidelberg,88
+Lahr/ Schwarzwald,Heidelberg,98
+Lorrach,Heidelberg,150
+Heidelberg,Freiburg im Breisgau,120
+Freiburg im Breisgau,Freiburg im Breisgau,0
+Mannheim,Freiburg im Breisgau,125
+Karlsruhe,Freiburg im Breisgau,85
+Baden-Baden,Freiburg im Breisgau,68
+Buhl,Freiburg im Breisgau,62
+Offenburg,Freiburg im Breisgau,45
+Lahr/ Schwarzwald,Freiburg im Breisgau,39
+Lorrach,Freiburg im Breisgau,48
+Heidelberg,Mannheim,24
+Freiburg im Breisgau,Mannheim,125
+Mannheim,Mannheim,0
+Karlsruhe,Mannheim,53
+Baden-Baden,Mannheim,74
+Buhl,Mannheim,77
+Offenburg,Mannheim,95
+Lahr/ Schwarzwald,Mannheim,106
+Lorrach,Mannheim,160
+Heidelberg,Karlsruhe,50
+Freiburg im Breisgau,Karlsruhe,85
+Mannheim,Karlsruhe,53
+Karlsruhe,Karlsruhe,0
+Baden-Baden,Karlsruhe,31
+Buhl,Karlsruhe,35
+Offenburg,Karlsruhe,51
+Lahr/ Schwarzwald,Karlsruhe,61
+Lorrach,Karlsruhe,115
+Heidelberg,Baden-Baden,67
+Freiburg im Breisgau,Baden-Baden,68
+Mannheim,Baden-Baden,74
+Karlsruhe,Baden-Baden,31
+Baden-Baden,Baden-Baden,0
+Buhl,Baden-Baden,16
+Offenburg,Baden-Baden,36
+Lahr/ Schwarzwald,Baden-Baden,46
+Lorrach,Baden-Baden,98
+Heidelberg,Buhl,71
+Freiburg im Breisgau,Buhl,62
+Mannheim,Buhl,77
+Karlsruhe,Buhl,35
+Baden-Baden,Buhl,16
+Buhl,Buhl,0
+Offenburg,Buhl,30
+Lahr/ Schwarzwald,Buhl,40
+Lorrach,Buhl,92
+Heidelberg,Offenburg,88
+Freiburg im Breisgau,Offenburg,45
+Mannheim,Offenburg,95
+Karlsruhe,Offenburg,51
+Baden-Baden,Offenburg,36
+Buhl,Offenburg,30
+Offenburg,Offenburg,0
+Lahr/ Schwarzwald,Offenburg,26
+Lorrach,Offenburg,80
+Heidelberg,Lahr/ Schwarzwald,98
+Freiburg im Breisgau,Lahr/ Schwarzwald,39
+Mannheim,Lahr/ Schwarzwald,106
+Karlsruhe,Lahr/ Schwarzwald,61
+Baden-Baden,Lahr/ Schwarzwald,46
+Buhl,Lahr/ Schwarzwald,40
+Offenburg,Lahr/ Schwarzwald,26
+Lahr/ Schwarzwald,Lahr/ Schwarzwald,0
+Lorrach,Lahr/ Schwarzwald,70
+Heidelberg,Lorrach,150
+Freiburg im Breisgau,Lorrach,48
+Mannheim,Lorrach,160
+Karlsruhe,Lorrach,115
+Baden-Baden,Lorrach,98
+Buhl,Lorrach,92
+Offenburg,Lorrach,80
+Lahr/ Schwarzwald,Lorrach,70
+Lorrach,Lorrach,0
